@@ -28,10 +28,8 @@ public class ProductTest {
         Assert.assertEquals(actualName, expectedName);
     }
 
-    // Додайте інші тести за необхідністю
-
     @AfterMethod
     public void tearDown() {
-        // Звільнення ресурсів, якщо потрібно
+
     }
 }
